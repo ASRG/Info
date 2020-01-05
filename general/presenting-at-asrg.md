@@ -29,7 +29,6 @@ Corporate presentations are allowed but must be limited to less then 5 mins.  Th
 ### Not Allowed
 
 * Presentation only about a product or service.
-* Sales Presentations
-
+* 
 
 
