@@ -12,10 +12,6 @@ If you would like to support projects, please feel free to contact each project 
 
 Every company needs to take into consideration many standards, norms, regulations, etc. in their security strategy and designs.  Since this is something that we all need to do, ASRG will maintain a list of all these documents that might be relevant for security in automotive industry.
 
-### Contact 
-
-
-
 ## Directory of Security Suppliers
 
 Each market has unique players in the automotive cyber security field and we would like to make it more transparent for suppliers or service providers to be identified.  This way we will build a database to manage the solutions available in each market. 
@@ -23,8 +19,6 @@ Each market has unique players in the automotive cyber security field and we wou
 ## Automotive Security Intelligence Platform \(ASIP\)
 
 Every OEM, supplier and service provider needs good trusted intelligence regarding cyber security issues in automotive.  This platform will enable subscribers to gain access to automotive specific intelligence which will allow better decisions, risk calculations, and understand if product is affected by existing threats. 
-
-This is still in 
 
 ## Automotive Threat Catalog
 
