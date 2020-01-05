@@ -36,12 +36,23 @@ We have a google group for all automotive security newsletters
 
 {% embed url="https://shop.hak5.org/" %}
 
+### Great Scott Gadgets
+
 {% embed url="https://greatscottgadgets.com/" %}
 
+#### [HackRF](tools/untitled.md)
 
+#### [GreatFet](tools/greatfet.md)
+
+### Vector
 
 * Vector
+
+### Riscure
+
 * [Riscure](https://github.com/aueb/automotivesec/blob/master/Riscure) \([https://www.riscure.com/publications/](https://www.riscure.com/publications/)\)
+
+### Intrepedid
 
 ## Presentations 
 
