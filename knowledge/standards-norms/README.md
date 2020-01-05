@@ -10,7 +10,7 @@ ISO 21434
 
 SAE J3061
 
-[CAN](can.md)
+[CAN](can/)
 
 LIN
 
