@@ -56,6 +56,12 @@ We have a google group for all automotive security newsletters
 
 ## Presentations 
 
+### BlackHat
+
+### DefCon
+
+### CCC Congress XXC3
+
 ## Books 
 
 ## Github  
