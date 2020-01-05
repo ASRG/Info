@@ -16,6 +16,7 @@
 * [Monthly Meetings](knowledge/monthly-meetings.md)
 * [Security Library](knowledge/security-library.md)
 * [Standards / Norms](knowledge/standards-norms/README.md)
+  * [CAN](knowledge/standards-norms/can.md)
   * [SAE J2534](knowledge/standards-norms/sae-j2534.md)
 * [Responsible Disclosure](knowledge/responsible-disclosure.md)
 * [Links](knowledge/links.md)
