@@ -42,7 +42,8 @@
   * [RedPitaya](knowledge/tools/redpitaya.md)
   * [RTL-SDR](knowledge/tools/rtl-sdr.md)
   * [YARDStickOne](knowledge/tools/yardstickone.md)
-* [Software](knowledge/software.md)
+* [Software](knowledge/software/README.md)
+  * [Wireshark](knowledge/software/wireshark.md)
 * [Responsible Disclosure](knowledge/responsible-disclosure.md)
 * [Links](knowledge/links.md)
 
