@@ -19,4 +19,5 @@
 ## Links
 
 * [https://osmocom.org/projects/rtl-sdr/wiki/Rtl-sdr](https://osmocom.org/projects/rtl-sdr/wiki/Rtl-sdr)
+* [https://medium.com/@tomac/sigintos-a-wireless-pentest-distro-review-a7ea93ee8f8b](https://medium.com/@tomac/sigintos-a-wireless-pentest-distro-review-a7ea93ee8f8b)
 

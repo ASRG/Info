@@ -13,15 +13,16 @@
 
 ## Knowledge
 
-* [CTF](knowledge/ctf.md)
 * [Attac Vectors](knowledge/attac-vectors/README.md)
   * [Bluetooth](knowledge/attac-vectors/bluetooth.md)
+  * [CAN](knowledge/attac-vectors/can.md)
   * [GPS](knowledge/attac-vectors/gps.md)
   * [GSM](knowledge/attac-vectors/gsm.md)
   * [KeylessEntry](knowledge/attac-vectors/keylessentry.md)
   * [TPMS](knowledge/attac-vectors/tpms.md)
   * [TPU](knowledge/attac-vectors/tpu.md)
   * [Wifi](knowledge/attac-vectors/wifi.md)
+* [CTF](knowledge/ctf.md)
 * [Monthly Meetings](knowledge/monthly-meetings.md)
 * [Security Library](knowledge/security-library.md)
 * [Standards / Norms](knowledge/standards-norms/README.md)
@@ -41,6 +42,7 @@
   * [RedPitaya](knowledge/tools/redpitaya.md)
   * [RTL-SDR](knowledge/tools/rtl-sdr.md)
   * [YARDStickOne](knowledge/tools/yardstickone.md)
+* [Software](knowledge/software.md)
 * [Responsible Disclosure](knowledge/responsible-disclosure.md)
 * [Links](knowledge/links.md)
 
