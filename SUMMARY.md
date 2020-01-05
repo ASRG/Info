@@ -13,9 +13,15 @@
 
 ## Knowledge
 
+* [CTF](knowledge/ctf.md)
 * [Attac Vectors](knowledge/attac-vectors/README.md)
-  * [TPU](knowledge/attac-vectors/tpu.md)
+  * [Bluetooth](knowledge/attac-vectors/bluetooth.md)
+  * [GPS](knowledge/attac-vectors/gps.md)
+  * [GSM](knowledge/attac-vectors/gsm.md)
   * [KeylessEntry](knowledge/attac-vectors/keylessentry.md)
+  * [TPMS](knowledge/attac-vectors/tpms.md)
+  * [TPU](knowledge/attac-vectors/tpu.md)
+  * [Wifi](knowledge/attac-vectors/wifi.md)
 * [Monthly Meetings](knowledge/monthly-meetings.md)
 * [Security Library](knowledge/security-library.md)
 * [Standards / Norms](knowledge/standards-norms/README.md)
