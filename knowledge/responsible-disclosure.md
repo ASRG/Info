@@ -38,5 +38,9 @@ description: >-
 
 {% embed url="https://psirt.bosch.com/" %}
 
+## Other
+
+{% embed url="https://www.openbugbounty.org/" %}
+
 
 
