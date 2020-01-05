@@ -24,7 +24,7 @@ Each market has unique players in the automotive cyber security field and we wou
 
 Every OEM, supplier and service provider needs good trusted intelligence regarding cyber security issues in automotive.  This platform will enable subscribers to gain access to automotive specific intelligence which will allow better decisions, risk calculations, and understand if product is affected by existing threats. 
 
-This is still in 
+
 
 ## Automotive Threat Catalog
 
