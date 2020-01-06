@@ -2,7 +2,7 @@
 
 by [Great Scott Gadgets](Greatscottgadgets)
 
-## GreatScott gadges
+## GreatScott Badges
 
 * [https://greatscottgadgets.com/2019/05-08-greatfet-one-has-arrived/](https://greatscottgadgets.com/2019/05-08-greatfet-one-has-arrived/)
 * [https://greatscottgadgets.com/greatfet/one/](https://greatscottgadgets.com/greatfet/one/)

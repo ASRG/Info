@@ -13,6 +13,7 @@
 
 ## Knowledge
 
+* [Monthly Meetings](knowledge/monthly-meetings.md)
 * [Attack Vectors](knowledge/attac-vectors/README.md)
   * [Bluetooth](knowledge/attac-vectors/bluetooth.md)
   * [CAN](knowledge/attac-vectors/can.md)
@@ -23,7 +24,6 @@
   * [TPU](knowledge/attac-vectors/tpu.md)
   * [Wifi](knowledge/attac-vectors/wifi.md)
 * [CTF](knowledge/ctf.md)
-* [Monthly Meetings](knowledge/monthly-meetings.md)
 * [Security Library](knowledge/security-library.md)
 * [Standards / Norms](knowledge/standards-norms/README.md)
   * [LIN](knowledge/standards-norms/lin.md)
