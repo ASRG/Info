@@ -52,6 +52,7 @@
 * [Monthly Meetings](networking/monthly-meetings.md)
 * [Slack](networking/slack.md)
 * [WhatsApp](networking/whatsapp.md)
+* [Keybase](networking/keybase.md)
 * [Twitter](networking/twitter.md)
 
 ## Collaboration
