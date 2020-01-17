@@ -14,6 +14,9 @@
 ## Knowledge
 
 * [Monthly Meetings](knowledge/monthly-meetings.md)
+* [Conferences](knowledge/conferences.md)
+* [Security Library](knowledge/security-library.md)
+* [Responsible Disclosure](knowledge/responsible-disclosure.md)
 * [Attack Vectors](knowledge/attac-vectors/README.md)
   * [Bluetooth](knowledge/attac-vectors/bluetooth.md)
   * [CAN](knowledge/attac-vectors/can.md)
@@ -24,7 +27,6 @@
   * [TPU](knowledge/attac-vectors/tpu.md)
   * [Wifi](knowledge/attac-vectors/wifi.md)
 * [CTF](knowledge/ctf.md)
-* [Security Library](knowledge/security-library.md)
 * [Standards / Norms](knowledge/standards-norms/README.md)
   * [LIN](knowledge/standards-norms/lin.md)
   * [CAN](knowledge/standards-norms/can/README.md)
@@ -44,7 +46,6 @@
   * [YARDStickOne](knowledge/tools/yardstickone.md)
 * [Software](knowledge/software/README.md)
   * [Wireshark](knowledge/software/wireshark.md)
-* [Responsible Disclosure](knowledge/responsible-disclosure.md)
 * [Links](knowledge/links.md)
 
 ## Networking
@@ -58,5 +59,4 @@
 ## Collaboration
 
 * [Projects](collaboration/projects.md)
-* [Conferences](conferences.md)
 
