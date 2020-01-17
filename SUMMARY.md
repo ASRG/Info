@@ -58,4 +58,5 @@
 ## Collaboration
 
 * [Projects](collaboration/projects.md)
+* [Conferences](conferences.md)
 
