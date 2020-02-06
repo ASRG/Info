@@ -4,7 +4,7 @@ description: >-
   ASRG.
 ---
 
-# Presenting @ ASRG
+# Presenting
 
 ## Submit
 

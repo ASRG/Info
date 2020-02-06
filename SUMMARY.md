@@ -7,7 +7,7 @@
 * [Why ASRG?](general/why-asrg.md)
 * [Members](general/members.md)
 * [Locations](general/locations.md)
-* [Presenting @ ASRG](general/presenting-at-asrg.md)
+* [Presenting](general/presenting-at-asrg.md)
 * [Social Media](general/social-media.md)
 * [Sponsorship](general/sponsorship.md)
 
