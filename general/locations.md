@@ -15,6 +15,30 @@ Based in southeast Michigan, the Detroit chapter of ASRG brings experts from man
 
 ## Germany
 
+### Rhein-Main Area \[ASRG-FRA\]
+
+The Rhein-Main area location is consisting of Frankfurt, Wiesbaden, Dusseldorf and the surrounding areas.  Information 
+
+{% embed url="https://www.meetup.com/Automotive-Security-Research-Group-FRA/" %}
+
+```text
+<iframe id="forum_embed"
+  src="javascript:void(0)"
+  scrolling="no"
+  frameborder="0"
+  width="900"
+  height="700">
+</iframe>
+<script type="text/javascript">
+  document.getElementById('forum_embed').src =
+     'https://groups.google.com/a/asrg.io/forum/embed/?place=forum/asrg-fra'
+     + '&showsearch=true&showpopout=true&showtabs=false'
+     + '&parenturl=' + encodeURIComponent(window.location.href);
+</script>
+```
+
+
+
 ### Munich \(ASRG-MUC\)
 
 Located in the bavarian state of Germany, is the city of Munich which is the home to BMW and many other suppliers.  
