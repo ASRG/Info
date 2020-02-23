@@ -1,0 +1,8 @@
+# FlexRay
+
+![](../../.gitbook/assets/200px-flexray_logo.svg.png)
+
+**FlexRay** ist ein [serielles](https://de.wikipedia.org/wiki/Serielle_Daten%C3%BCbertragung), [deterministisches](https://de.wikipedia.org/wiki/Deterministisch) und [fehlertolerantes](https://de.wikipedia.org/wiki/Fehlertoleranz) [Feldbussystem](https://de.wikipedia.org/wiki/Feldbus) für den Einsatz im [Automobil](https://de.wikipedia.org/wiki/Automobil), vergleichbar mit [TTP](https://de.wikipedia.org/wiki/Time-Triggered_Protocol). Das FlexRay-[Konsortium](https://de.wikipedia.org/wiki/Konsortium) wurde 2000 von den Unternehmen [BMW](https://de.wikipedia.org/wiki/BMW), [Daimler AG](https://de.wikipedia.org/wiki/Daimler_AG), [Motorola](https://de.wikipedia.org/wiki/Motorola) und [Philips](https://de.wikipedia.org/wiki/Philips) gegründet. Von 2001 bis 2004 traten als Core-Partner die Unternehmen [Bosch](https://de.wikipedia.org/wiki/Robert_Bosch_GmbH), [General Motors](https://de.wikipedia.org/wiki/General_Motors) und [Volkswagen](https://de.wikipedia.org/wiki/Volkswagen) bei. 2004 übernahm [Freescale](https://de.wikipedia.org/wiki/Freescale) die Rechte und Pflichten als Core-Mitglied im Konsortium von Motorola. 2006 übernahm [NXP Semiconductors](https://de.wikipedia.org/wiki/NXP_Semiconductors) die Rechte und Pflichten als Core-Mitglied im Konsortium von Philips. 2010 löste sich das FlexRay-Konsortium auf. Der FlexRay Standard wurde danach in einen [ISO](https://de.wikipedia.org/wiki/ISO)-Standard überführt \(ISO 17458-1 bis 17458-5\).
+
+* [https://de.wikipedia.org/wiki/FlexRay](https://de.wikipedia.org/wiki/FlexRay)
+

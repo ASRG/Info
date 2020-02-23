@@ -28,6 +28,7 @@
   * [Wifi](knowledge/attac-vectors/wifi.md)
 * [CTF](knowledge/ctf.md)
 * [Standards / Norms](knowledge/standards-norms/README.md)
+  * [FlexRay](knowledge/standards-norms/flexray.md)
   * [MOST Bus](knowledge/standards-norms/most-bus.md)
   * [LIN](knowledge/standards-norms/lin.md)
   * [CAN](knowledge/standards-norms/can/README.md)
