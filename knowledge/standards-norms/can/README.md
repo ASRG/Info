@@ -80,6 +80,12 @@
 * 2004: ISO 15765 series \(OBDII/ISO-TP\)
 * 2007: Arinc 825/826
 
+
+
+{% page-ref page="iso-14230-3-keyword-protocol-2000-part-3-implementation.md" %}
+
+
+
 **Links**
 
 * [https://www.can-cia.org/can-knowledge/hlp/higher-layer-protocols/](https://www.can-cia.org/can-knowledge/hlp/higher-layer-protocols/)
