@@ -84,6 +84,8 @@
 
 {% page-ref page="iso-14230-3-keyword-protocol-2000-part-3-implementation.md" %}
 
+{% page-ref page="iso-15762-2.md" %}
+
 
 
 **Links**
