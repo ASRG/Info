@@ -72,6 +72,8 @@ We have a google group for all automotive security newsletters
 
 {% embed url="https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE" %}
 
+{% embed url="https://github.com/autoguard/awesome-vehicle-security-and-safety" %}
+
 
 
 ## Courses 
