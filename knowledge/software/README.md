@@ -1,9 +1,32 @@
 # Software
 
-* Wireshark
-* Kismet
-* nmap
-* airprobe
+## Intelligence Platforms
+
+### Yeti
+
+{% embed url="https://yeti-platform.github.io/" %}
+
+### OpenCTI
+
+{% embed url="https://www.opencti.io/en/" %}
+
+### MISP
+
+{% embed url="https://www.misp-project.org/" %}
+
+### STIX Data Structure Standard
+
+{% embed url="https://stixproject.github.io/" %}
+
+## Network Analyzers
+
+### Wireshark
+
+Kismet
+
+Nmap
+
+airprobe
 
 ### SDR Tools
 
