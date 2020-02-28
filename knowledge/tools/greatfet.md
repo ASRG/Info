@@ -13,8 +13,14 @@ by [Great Scott Gadgets](Greatscottgadgets)
 
 ![](https://hackaday.com/wp-content/uploads/2019/06/GreatFET-pinout-sticker.jpg)
 
-* [http://gf.ktemkin.com/](http://gf.ktemkin.com/)
-* 
+{% embed url="http://gf.ktemkin.com/" %}
+
+
+
+{% embed url="https://github.com/hacking-usb/usb-workshop-materials/tree/master/challenges" %}
+
+
+
 ### History
 
 * [https://archive.org/details/GreatfetAPreviewShmoocon2016](https://archive.org/details/GreatfetAPreviewShmoocon2016)
@@ -33,7 +39,9 @@ by [Great Scott Gadgets](Greatscottgadgets)
 
 ## Wiki
 
-* [https://github.com/greatscottgadgets/greatfet/wiki](https://github.com/greatscottgadgets/greatfet/wiki)
+{% embed url="https://github.com/greatscottgadgets/greatfet/wiki" %}
+
+
 
 ## Neighbors / Heads
 
