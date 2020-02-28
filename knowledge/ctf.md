@@ -20,5 +20,7 @@ This is also a great opportunity to meet people and work together on CTF challen
 
 {% embed url="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w/videos" %}
 
+{% embed url="https://github.com/hacking-usb/usb-workshop-materials/tree/master/challenges" %}
+
 
 
