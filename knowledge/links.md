@@ -12,6 +12,8 @@ We have a google group for all automotive security newsletters
 
 {% embed url="https://github.com/commaai/opendbc?files=1" %}
 
+{% embed url="http://opengarages.org/handbook/ebook/" %}
+
 
 
 
