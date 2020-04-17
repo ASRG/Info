@@ -29,7 +29,7 @@ description: >-
 
 ### \[ASRG-FRA\] Rhein-Main Area 
 
-The Rhein-Main area location is consisting of Frankfurt, Wiesbaden, Dusseldorf and the surrounding areas.  
+The Rhein-Main area location is consisting of Frankfurt, Wiesbaden, Darmstadt and the surrounding areas.  
 
 {% embed url="https://www.meetup.com/Automotive-Security-Research-Group-FRA/" %}
 
