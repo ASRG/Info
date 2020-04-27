@@ -48,6 +48,7 @@
 * [Slack](networking/slack.md)
 * [WhatsApp](networking/whatsapp.md)
 * [Twitter](networking/twitter.md)
+* [Discord](networking/discord.md)
 
 ## Collaboration
 
