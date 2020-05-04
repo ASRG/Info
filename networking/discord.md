@@ -8,7 +8,7 @@ description: Discord has many good security communities.
 
 [Hardwear.io Discrod Server](https://discordapp.com/invite/8frukrk) - Put on by [Hardwear.io](https://hardwear.io/) for their virtual security conference.
 
-
+[ASRG Discord Server](https://discord.gg/tSgVWnH) - This is our server. 
 
 
 
