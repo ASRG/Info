@@ -40,6 +40,7 @@
 * [Software](knowledge/software/README.md)
   * [Wireshark](knowledge/software/wireshark.md)
 * [Links](knowledge/links.md)
+* [Skills Roadmap](knowledge/skills-roadmap.md)
 
 ## Networking
 
