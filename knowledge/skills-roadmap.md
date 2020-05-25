@@ -39,4 +39,24 @@ What individual skills are we covering? We should be granular and then the skill
     * Reluctance
     * Optical
   * ...
-* 
+
+Skill / Knowledge categories
+
+ - Risk analysis methods \(EVITA, HEAVENS, etc.; attack trees\)  
+ - Access control models  
+ - Intrusion detection  
+ - Trusted computing  
+ - Malware  
+ - Privacy / GDPR  
+ - Incident response  
+ -  Cryptographic technologies  
+ - Key management / KMS  
+ - Security testing  
+       - Penetration testing  
+       - Requirements based security testing  
+       - ...  
+ - Standards and laws \(UNECE, UL, ISO, etc.\)  
+ - Side-channel attacks  
+ - Secure coding  
+ - ...
+
