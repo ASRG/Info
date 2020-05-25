@@ -60,3 +60,13 @@ Skill / Knowledge categories
  - Secure coding  
  - ...
 
+Standard / common security mechanisms \(can maybe be mapped to the components / technologies in the first list above\)  
+ - SecOC  
+ - Secure Flashing  
+ - Secure Storage  
+ - Secure Boot / Trusted Boot / Authentic Boot  
+ - Security Event Logging  
+ - Secure Debug  
+ - Secure Diagnosis  
+- ...
+
