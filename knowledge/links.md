@@ -48,6 +48,14 @@ We have a google group for all automotive security newsletters
 
 ## Courses 
 
+{% embed url="https://www.sae.org/learn/content/c1911/" %}
+
+{% embed url="https://www.sae.org/learn/content/c1619/" %}
+
+{% embed url="https://www.sae.org/search/?qt=cybersecurity&sort=relevance&sort-dir=desc&display=list&content-type=%28%22PDD%22%29&sector=%28%22AUTOC%22%29&taxonomy=%28%2250660%22%29" %}
+
+
+
 ## Blogs 
 
 [Escrypt Security Blog](https://securitybyescrypt.com/) - Nice security blog from Escrypt. 
@@ -55,6 +63,18 @@ We have a google group for all automotive security newsletters
 [Keen Security Lab Blog](http://keenlab.tencent.com/en/) - Blog created by Keen Security Lab of Tencent that posts research on car security.
 
 ## Websites 
+
+{% embed url="https://www.eenewsautomotive.com/" %}
+
+{% embed url="https://www.autoconnectedcar.com/news/" %}
+
+{% embed url="https://www.nhtsa.gov/technology-innovation/vehicle-cybersecurity" %}
+
+{% embed url="https://site.ieee.org/ocs-cssig/?page\_id=736" %}
+
+{% embed url="https://autoalliance.org/connected-cars/cybersecurity/" %}
+
+
 
 ## Podcasts
 
