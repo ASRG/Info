@@ -27,6 +27,14 @@ description: >-
 
 ## Germany
 
+### \[ASRG-BER\] Berlin
+
+{% embed url="https://www.meetup.com/Automotive-Security-Research-Group-Berlin-ASRG-BER/" %}
+
+### \[ASRG-CGN\] Cologne
+
+{% embed url="https://www.meetup.com/Automotive-Security-Research-Group-Cologne-ASRG-CGN/" %}
+
 ### \[ASRG-FRA\] Rhein-Main Area 
 
 The Rhein-Main area location is consisting of Frankfurt, Wiesbaden, Darmstadt and the surrounding areas.  
@@ -35,7 +43,7 @@ The Rhein-Main area location is consisting of Frankfurt, Wiesbaden, Darmstadt an
 
 ### \[ASRG-MUC\] Munich 
 
-Located in the bavarian state of Germany, is the city of Munich which is the home to BMW and many other suppliers.  
+Located in the Bavarian state of Germany, is the city of Munich which is the home to BMW and many other suppliers.  
 
 {% embed url="https://www.meetup.com/Automotive-Security-Research-Group-Munchen-ASRG-MUC/" %}
 
@@ -46,6 +54,14 @@ In the southwest of Germany, in the state of Baden-Württemberg, there is small 
 {% embed url="https://www.meetup.com/de-DE/Automotive-Security-Research-Group-Stuttgart/" %}
 
 ## India
+
+### \[ASRG-HYD\] Hyderabad
+
+{% embed url="https://www.meetup.com/Automotive-Security-Research-Group-Hyderabad-ASRG-HYD/" %}
+
+### \[ASRG-KER\] Kerala, India
+
+{% embed url="https://www.meetup.com/Automotive-Security-Research-Group-Kerala-ASRG-KER/" %}
 
 ### \[ASRG-BLR\] Bangalore, India
 
@@ -62,6 +78,10 @@ In the southwest of Germany, in the state of Baden-Württemberg, there is small 
 {% embed url="https://www.meetup.com/de-DE/Automotive-Security-Research-Group-Tel-Aviv-ASRG-TLV/" %}
 
 ## Romania
+
+### \[ASRG-BUC\] Bucharest, Romania
+
+{% embed url="https://www.meetup.com/Automotive-Security-Research-Group-Bucharest/" %}
 
 ### \[ASRG-C\] Cluj, Romania 
 
@@ -107,7 +127,41 @@ Located in one of the most entrepreneurial cities in the world, ASRG-SFO was fou
 
 {% embed url="https://www.meetup.com/Automotive-Security-Research-Group-San-Francisco-ASRG-SFO/" %}
 
-##  
+## Canada
+
+### \[ASRG-TOR\] Toronto
+
+{% embed url="https://www.meetup.com/Automotive-Security-Research-Group-Toronto-ASRG-TOR/" %}
+
+### \[ASRG-WIN\] Windsor
+
+{% embed url="https://www.meetup.com/Automotive-Security-Research-Group-Windsor-ASRG-WIN/" %}
+
+## Austria
+
+### \[ASRG-VIE\] Vienna
+
+{% embed url="https://www.meetup.com/Automotive-Security-Research-Group-Vienna-ASRG-VIE/" %}
+
+## China
+
+### \[ASRG-SHA\] Shanghai
+
+{% embed url="https://www.meetup.com/Automotive-Security-Research-Group-ASRG-SHA/" %}
+
+## Japan
+
+### \[ASRG-JPN\] Tokyo
+
+{% embed url="https://www.meetup.com/Automotive-Security-Research-Group-Tokyo-ASRG-JPN/" %}
+
+## Mexico
+
+### \[ASRG-QRO\] Queretaro
+
+{% embed url="https://www.meetup.com/Automotive-Security-Research-Group-Queretaro-ASRG-QRO/" %}
+
+
 
 
 
