@@ -55,4 +55,5 @@
 ## Collaboration
 
 * [Projects](collaboration/projects.md)
+* [Setting Up a Car Hacking Lab](collaboration/setting-up-a-car-hacking-lab.md)
 
