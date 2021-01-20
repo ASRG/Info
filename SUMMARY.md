@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Untitled](untitled.md)
 
 ## General
 
@@ -15,6 +14,7 @@
 ## Knowledge
 
 * [Monthly Meetings](knowledge/monthly-meetings.md)
+* [Academic Network](knowledge/academic-network.md)
 * [Specification List](knowledge/specification-list.md)
 * [Conferences](knowledge/conferences.md)
 * [Security Library](knowledge/security-library.md)
