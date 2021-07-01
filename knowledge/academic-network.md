@@ -47,7 +47,7 @@ The talent pool needs a structured competency management program to allow the fu
 
 New or exist talent entering the automotive security space find it difficult to obtain needed resources, positive culture, and support to be successful and provide secure solutions in the industry.
 
-![](../.gitbook/assets/final-asrg-academic-network-.pptx.png)
+![](../.gitbook/assets/final-asrg-academic-network-.pptx-1-.png)
 
 ## **The Solution**
 
