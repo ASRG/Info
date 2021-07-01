@@ -7,7 +7,7 @@ description: >-
 
 # Academic Society
 
-Are you ready to start an ASRG academic society at your academic institution?
+## Are you ready to start an ASRG academic society at your institution?
 
 ## Know the benefits 
 

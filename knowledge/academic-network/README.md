@@ -2,8 +2,7 @@
 
 ## What is the Academic Network?
 
-ASRG Academic Network connects the researchers, students, professors and professionals in the field of automotive cybersecurity to each other on the global stage.   
-****
+ASRG Academic Network connects the researchers, students, professors and professionals in the field of automotive cybersecurity to each other on the global stage. 
 
 The ASRG is building the Academic Network to bridge industry and academia. We're working on building a template to create "Academic Societies" at Universities around the world to bring resources to student groups and facilitate their research. Further, we pair Academic Societies with a local chapter to support collaboration between professionals, hackers, and academics. To best equip academic societies, we're building a learning platform so that students can gain access to educational resources in the space. The Academic Network also includes "Technical Committees", or groups of experts from industry and academia that provide solutions to challenges in the space.  
 ****
