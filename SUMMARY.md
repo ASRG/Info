@@ -14,7 +14,8 @@
 ## Knowledge
 
 * [Monthly Meetings](knowledge/monthly-meetings.md)
-* [Academic Network](knowledge/academic-network.md)
+* [Academic Network](knowledge/academic-network/README.md)
+  * [Academic Society](knowledge/academic-network/academic-society.md)
 * [Specification List](knowledge/specification-list.md)
 * [Conferences](knowledge/conferences.md)
 * [Security Library](knowledge/security-library.md)

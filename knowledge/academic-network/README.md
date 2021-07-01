@@ -47,13 +47,13 @@ The talent pool needs a structured competency management program to allow the fu
 
 New or exist talent entering the automotive security space find it difficult to obtain needed resources, positive culture, and support to be successful and provide secure solutions in the industry.
 
-![](../.gitbook/assets/final-asrg-academic-network-.pptx-1-.png)
+![](../../.gitbook/assets/final-asrg-academic-network-.pptx-1-.png)
 
 ## **The Solution**
 
 #### **Academic Societies:**
 
-To bring the academic community together from different academic institutions and research centres. Bringing academic research and innovation closer to industry 
+To bring the academic community together from different academic institutions and research centers. Bringing academic research and innovation closer to industry 
 
 #### **Technical Committees**
 
