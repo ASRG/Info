@@ -9,6 +9,8 @@ description: >-
 
 ## Are you ready to start an ASRG academic society at your institution?
 
+Fill out this [form](https://forms.gle/AWQJxzZKsgaEex5C9) and we will get back to you.
+
 ## Know the benefits 
 
 #### For the students, by the students
