@@ -45,8 +45,9 @@ The talent pool needs a structured competency management program to allow the fu
 
 1. **High Barrier of Entry**
 
-New or exist talent entering the automotive security space find it difficult to obtain needed resources, positive culture, and support to be successful and provide secure solutions in the industry.  
+New or exist talent entering the automotive security space find it difficult to obtain needed resources, positive culture, and support to be successful and provide secure solutions in the industry.
 
+![](../.gitbook/assets/final-asrg-academic-network-.pptx.png)
 
 ## **The Solution**
 
