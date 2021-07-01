@@ -17,7 +17,7 @@ A thriving global community of academic institutions that can collaborate to sol
 
 ## How to get involved?
 
-Interested in supporting the ASRG-Academic Network? Start by filling out the [survey](https://forms.gle/M5EJpasZGYNY6ffr6).
+Interested in supporting the ASRG-Academic Network? Start by filling out the _****_[_**survey**_](https://forms.gle/M5EJpasZGYNY6ffr6)_**.**_
 
 Want to start an Academic Network Society? 
 
@@ -27,9 +27,9 @@ Are you a student who wants to start a AN Society at your university?
 
 Are you a professor who wants to start a AN Society at your university?
 
-Join the conversation on [SLACK](https://join.slack.com/t/asrg/shared_invite/zt-82h4b369-Nmdx3VtWkL2ETfYLpjch9w).
+Join the conversation on _****_[_**SLACK**_](https://join.slack.com/t/asrg/shared_invite/zt-82h4b369-Nmdx3VtWkL2ETfYLpjch9w)_**.**_
 
-Reach out to us at [asrg-an@asrg.io](mailto:asrg-an@asrg.io).
+Reach out to us at ****[**asrg-an@asrg.io**](mailto:asrg-an@asrg.io)**.**
 
 ## **Challenges**
 
@@ -82,7 +82,6 @@ A self-learning platform for the competency development and knowledge sharing. B
 * **University of Michigan \(Dearborn\), USA**
 * **Coventry University, UK**
 * **Technische Hochschule Ingolstadt, Germany**
-* **KTH Royal Institute of Technology, Sweden**
 * **Universidade Federal de Pernambuco \(UFPE\), Brazil**
 
 ## First step to contribute: Fill out this [survey](https://forms.gle/M5EJpasZGYNY6ffr6).
