@@ -75,14 +75,15 @@ A self-learning platform for the competency development and knowledge sharing. B
 
 ## **Our Academic Societies**
 
-* **University of Windsor, Canada**
-* **University of Michigan \(Ann Arbor\), USA**
+* **University of Windsor, Windsor, Ontario, Canada**
+* **University of Michigan, Ann Arbor, Michigan, USA**
 * **Mar Athanasius College of Engineering, India**
 * **Eastern Michigan University, USA**
 * **University of Michigan \(Dearborn\), USA**
 * **Coventry University, UK**
 * **Technische Hochschule Ingolstadt, Germany**
 * **Universidade Federal de Pernambuco \(UFPE\), Brazil**
+* **University of California, Irvine**
 
 ## First step to contribute: Fill out this [survey](https://forms.gle/M5EJpasZGYNY6ffr6).
 
