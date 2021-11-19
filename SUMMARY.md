@@ -1,60 +1,59 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Main](README.md)
 
 ## General
 
-* [Why ASRG?](general/why-asrg.md)
-* [Members](general/members.md)
-* [Locations](general/locations.md)
-* [Presenting](general/presenting-at-asrg.md)
-* [Social Media](general/social-media.md)
-* [Sponsorship](general/sponsorship.md)
+* [Events](general/events.md)
+* [OPL](general/management.md)
+* [Locations](general/untitled.md)
 
-## Knowledge
+## Management
 
-* [Monthly Meetings](knowledge/monthly-meetings.md)
-* [Academic Network](knowledge/academic-network/README.md)
-  * [Academic Society](knowledge/academic-network/academic-society.md)
-* [Specification List](knowledge/specification-list.md)
-* [Conferences](knowledge/conferences.md)
-* [Security Library](knowledge/security-library.md)
-* [Responsible Disclosure](knowledge/responsible-disclosure.md)
-* [Attack Vectors](knowledge/attac-vectors/README.md)
-  * [Bluetooth](knowledge/attac-vectors/bluetooth.md)
-  * [CAN](knowledge/attac-vectors/can.md)
-  * [GPS](knowledge/attac-vectors/gps.md)
-  * [GSM](knowledge/attac-vectors/gsm.md)
-  * [KeylessEntry](knowledge/attac-vectors/keylessentry.md)
-  * [TPMS](knowledge/attac-vectors/tpms.md)
-  * [TCU \(Telematic Control Unit\)](knowledge/attac-vectors/tpu.md)
-  * [Wifi](knowledge/attac-vectors/wifi.md)
-* [CTF](knowledge/ctf.md)
-* [Tools](knowledge/tools/README.md)
-  * [BladeRF](knowledge/tools/bladerf.md)
-  * [GreatFet](knowledge/tools/greatfet.md)
-  * [HackRF](knowledge/tools/hackrf.md)
-  * [Pineapple-Tetra](knowledge/tools/pineapple-tetra.md)
-  * [PlutoSDR](knowledge/tools/plutosdr.md)
-  * [RedPitaya](knowledge/tools/redpitaya.md)
-  * [RTL-SDR](knowledge/tools/rtl-sdr.md)
-  * [YARDStickOne](knowledge/tools/yardstickone.md)
-* [Software](knowledge/software/README.md)
-  * [Wireshark](knowledge/software/wireshark.md)
-* [Links](knowledge/links.md)
-* [Skills Roadmap](knowledge/skills-roadmap.md)
+* [Meetings](management/meetings.md)
+* [Organization](management/organization.md)
+* [Knowledge](management/knowledge/README.md)
+  * [MeetUp Event Planning](management/knowledge/meetup-event-planning.md)
+  * [Public Google Drive](management/knowledge/public-google-drive.md)
+* [Networking](management/networking.md)
+* [Collaboration](management/collaboration.md)
+* [Sponsorship Relationship Management (SRM)](management/sponsorship-relationship-management-srm.md)
+* [New Location Process](management/new-location-process.md)
 
-## Networking
+***
 
-* [Monthly Meetings](networking/monthly-meetings.md)
-* [Telegram](networking/telegram.md)
-* [Slack](networking/slack.md)
-* [WhatsApp](networking/whatsapp.md)
-* [Twitter](networking/twitter.md)
-* [Discord](networking/discord.md)
+* [Content Management](content-management.md)
+* [How to add Posts to ASRG.io](how-to-add-posts-to-asrg.io.md)
+* [Strategy](strategy.md)
+* [Email](email.md)
+* [Roles](roles.md)
+* [Sources](sources.md)
+* [Automation](automation.md)
+* [Upstream Info Import](upstream-info-import.md)
+* [Keytagger](keytagger.md)
+* [Website](website/README.md)
+  * [Events](website/events.md)
+  * [Posts](website/posts.md)
+* [Sponsors](sponsors.md)
+* [Links](links.md)
+* [On-Boarding Process](administration.md)
+* [Marketing](marketing.md)
+* [Online Meeting Tools](online-meeting-tools.md)
+* [Benefits](benefits-for-admins.md)
 
-## Collaboration
+## Global Chapter Guidance <a href="chapter-guidance" id="chapter-guidance"></a>
 
-* [Projects](collaboration/projects.md)
-* [Setting Up a Car Hacking Lab](collaboration/setting-up-a-car-hacking-lab.md)
+* [Hosting your First Meetup](chapter-guidance/hosting-your-first-meetup.md)
+* [Streaming your ASRG Meetings](chapter-guidance/virtualizing-your-meetup.md)
+* [ASRG-WORLD Global Webinars](chapter-guidance/asrg-world-global-webinars.md)
 
+## ASIP
+
+* [Overview](asip/overview.md)
+* [Data Structure](asip/data-structure.md)
+* [Threat Intelligence Sources](asip/threat-intelligence-sources.md)
+* [Cyber Security Analyst](asip/cyber-security-analyst.md)
+
+## Webinar
+
+* [How to stream a webinar](webinar/how-to-stream-a-webinar.md)
