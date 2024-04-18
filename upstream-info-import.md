@@ -5,7 +5,7 @@
 3. Copy from local to server
 4.
 
-![](<.gitbook/assets/image (11).png>)
+![](<.gitbook/assets/image (6).png>)
 
 5\. Login to server with SSH.
 

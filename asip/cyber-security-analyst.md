@@ -16,7 +16,7 @@ Reason for Access:
 
 ### General Information
 
-URL: [https://intel.asrg.io](https://intel.asrg.io)
+URL: [https://intel.asrg.io](https://intel.asrg.io/)
 
 Performance: Standard D8s v3 (8 vcpus, 32 GiB memory)
 
@@ -30,7 +30,7 @@ Login is protected with a private key.  This key can be made available by reques
 
 ### ThreatQ
 
-[https://intel.asrg.io/](https://intel.asrg.io)
+[https://intel.asrg.io/](https://intel.asrg.io/)
 
 ThreatQ Login: As provided from Admin
 

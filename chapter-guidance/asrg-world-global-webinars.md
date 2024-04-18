@@ -45,7 +45,7 @@ Please setup a preparation meeting with the host and the presenter a few days be
 
 * Make sure the computer that he/she will be presenting from,  has been restarted that day.
 * Make sure that internet connect is **not** over wifi.  A direct LAN connection is necessary. The reason for this is that wifi is not stable enough.  There are so many influences to a wifi signal strength and stability, and we don't want the risk for ASRG webinars.&#x20;
-* Do **not **use the microphone from the computer... Please use a headset or external microphone. &#x20;
+* Do **not** use the microphone from the computer... Please use a headset or external microphone. &#x20;
 * If they are using a bluetooth, or wireless headset, please make sure that the batteries are changed.
 * All messaging programs on all computers / mobiles / cellphones shall be **turned off or silenced**.  Even the devices which are not involved in the webinar, as it will cause background noise.
 * Make sure that the environment where the presenter will be presenting is **quiet and controlled**.  Babies, dogs, and open windows can create unwanted noise.
@@ -97,7 +97,7 @@ Webinars rely on a tremendous amount of technology. Namely:
 
 13. Identify the person that will **interact with the audience**. This includes responding to questions/comments from audience, gathering questions that will be verbally presented, and **moderating Q\&A sessions**
 
-    ****
+
 14. Great. You have the marketing materials, event posted, and roles identified. Pat yourself on the back. You're almost there.
 
     &#x20;
@@ -129,26 +129,26 @@ Webinars rely on a tremendous amount of technology. Namely:
 
 19. Hold the presentation. HAVE FUN WITH IT. Remember, you're helping build a global organization. You're doing this because you care about automotive security. Really, it's a lot of fun.
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 ## Key Technologies
 
 Live streaming can get pricey quick. Good thing we tested a stack that is **completely free**. It worked great! Here are the key details:
 
 * ASRG's streaming platform is YouTube Live. For that, you will create an event. This is the admin console for the event. You will be able to "Go Live" here, see how many people are joined (and other key stats), and see real-time comments on the video.&#x20;
-* You **link** to the streaming platform with a **streaming client**. You can use any you want to install on your local machine. An open source option that works well is **OBS. **[**https://obsproject.com/**](https://obsproject.com)**. **Plug your streaming key from your **streaming platform** into your **streaming client**. The streaming client allows you to control what you're screensharing, audio outputs, and more.
+* You **link** to the streaming platform with a **streaming client**. You can use any you want to install on your local machine. An open source option that works well is **OBS.** [**https://obsproject.com/**](https://obsproject.com/)**.** Plug your streaming key from your **streaming platform** into your **streaming client**. The streaming client allows you to control what you're screensharing, audio outputs, and more.
 * Now, you need to host the webinar presenters somewhere. The key detail here is that there are multiple presenters. Paid platforms like Zoom allow you to stream a Zoom Meeting to YouTube Live, but it's very expensive. We used Google Meet. Here's how that was set up:\
   \
   Remote Presenter -> screenshare on Google Meet -> screen capture + audio output capture on OBS -> YouTube Live. \
   \
-  It's key to understand this. **You need to capture the presenters screen (Google Meet) and your machine's audio output. **
+  It's key to understand this. **You need to capture the presenters screen (Google Meet) and your machine's audio output.**&#x20;
 * On Mac, to capture audio output as an audio input to OBS, you need to use a software middleware. I used [https://support.shinywhitebox.com/hc/en-us/articles/204161459-Installing-iShowU-Audio-Capture-Mojave-and-earlier-](https://support.shinywhitebox.com/hc/en-us/articles/204161459-Installing-iShowU-Audio-Capture-Mojave-and-earlier-). This will take any audio output from my computer, share it with my headset, and route that **output** as an **input** into OBS. This is likely easier to do on Windows.&#x20;
 * For me, I needed **3 external displays** to stay organized. Here's what was on each
   * ASRG presentation.
   * OBS.
   * Google Meet.
   * YouTube Live Admin Dashboard.&#x20;
-* An additional awesome thing to do before the presentation starts is leave a poll/survey up. Then, before you start the presentation, show everyone the poll results! We directed everyone to a link to anonymously answer 3 questions, and showed them all the different locations they were joining from.  We used [https://www.polleverywhere.com/](https://www.polleverywhere.com), but any choice would do.&#x20;
+* An additional awesome thing to do before the presentation starts is leave a poll/survey up. Then, before you start the presentation, show everyone the poll results! We directed everyone to a link to anonymously answer 3 questions, and showed them all the different locations they were joining from.  We used [https://www.polleverywhere.com/](https://www.polleverywhere.com/), but any choice would do.&#x20;
 
 ## Structure of ASRG-WORLD Presentation
 

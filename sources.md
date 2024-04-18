@@ -8,9 +8,9 @@ description: This page defines all the sources of information required for ASRG
 
 #### English
 
-* [https://hackaday.com/](https://hackaday.com)
+* [https://hackaday.com/](https://hackaday.com/)
   * [https://hackaday.com/category/security-hacks/](https://hackaday.com/category/security-hacks/)
-* [https://www.rtl-sdr.com/](https://www.rtl-sdr.com)
+* [https://www.rtl-sdr.com/](https://www.rtl-sdr.com/)
 
 #### German
 

@@ -10,7 +10,7 @@ MeetUp provides a functionality to get feedback from the RSVPed participants of 
 
 #### **How to find the information?**
 
-You need to be _**host **_of the event you want to read out the information and the event itself must be taken in the past. If you open the event page you find on the right side a menu button _**organizer tools**_. By open the menu there appears the menu item _**watch feedback**_ where finally the information is available.
+You need to be _**host**_ of the event you want to read out the information and the event itself must be taken in the past. If you open the event page you find on the right side a menu button _**organizer tools**_. By open the menu there appears the menu item _**watch feedback**_ where finally the information is available.
 
 #### Where to put this information?
 

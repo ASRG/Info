@@ -66,7 +66,11 @@ Address: www.asrg.io
 
 ## Hosting
 
-![](<../.gitbook/assets/Screen Shot 2019-07-27 at 09.05.21.png>)
+<div align="left">
+
+<img src="../.gitbook/assets/Screen Shot 2019-07-27 at 09.05.21.png" alt="">
+
+</div>
 
 Host: Dreamhost.com
 
